@@ -9,3 +9,6 @@ while A<=B:
     print(A, end = " ")
     A=A+1
     
+    print(A)
+
+print(A)
