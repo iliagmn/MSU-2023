@@ -12,3 +12,4 @@ while A<=B:
     print(A)
 
 print(A)
+Новая версия
