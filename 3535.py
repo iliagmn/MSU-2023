@@ -24,6 +24,9 @@ st=st[:-1]
 
 summ2 = st+'='+summ_str
 print(summ2)
+print(summ2)
+print(summ2)
+print(summ2)
     
     
 
